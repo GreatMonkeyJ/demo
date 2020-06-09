@@ -1,75 +1,34 @@
 {
-  "shopInfo" : {
-      "mallName": "카페24"
-  },
-  "cartItems": [
-    {
-      "name": "Pluot",
-      "quantity": 5,
-      "price": "$1.00"
-    },
+  "news": [
     {
       "name": "Apple",
-      "quantity": 1,
+      "quantity": 10,
       "price": "$3.25"
-    }
-  ],
-  "wishItems": [
+    },
     {
-      "name": "Apple",
+      "name": "Banana",
+      "quantity": 10,
+      "price": "$6.45"
+    },
+    {
+      "name": "Car",
       "quantity": 1,
-      "price": "$3.25"
-    }
-  ],
-  "prdList" :[
-    {
-      "name": "Series B Set",
-      "price": "¥10.000",
-      "src": "//designjp24.cafe24shop.com/web/product/medium/201811/13c32fa60e6b8a2bfa64e2229145fb7f.jpg",
-      "width": 295,
-      "height": 295
+      "price": "$650,000.25"
     },
     {
-      "name": "RS196",
-      "price": "¥104.000",
-      "src": "//designjp24.cafe24shop.com/web/product/medium/201811/9aeccc01e0e6f06cc8a1bf61680230d8.jpg",
-      "width": 295,
-      "height": 295
+      "name": "Dataset",
+      "quantity": 20,
+      "price": "$3.59"
     },
     {
-      "name": "Kids Mall Set",
-      "price": "¥20.000",
-      "src": "//designjp24.cafe24shop.com/web/product/medium/201811/55e103d679482bef5a43d20c77bf2146.jpeg",
-      "width": 295,
-      "height": 295
+      "name": "Events",
+      "quantity": 2,
+      "price": "$3000.99"
     },
     {
-      "name": "Episode21 Set",
-      "price": "¥30.000",
-      "src": "//designjp24.cafe24shop.com/web/product/medium/201811/876bac1acb9b6b0eb1fa2361dc6fda9a.jpg",
-      "width": 295,
-      "height": 295
-    },
-    {
-      "name": "Blue Set",
-      "price": "¥76.000",
-      "src": "//designjp24.cafe24shop.com/web/product/medium/201811/2ef5a62c72ccef10729332bf2777e9ff.jpg",
-      "width": 295,
-      "height": 295
-    },
-    {
-      "name": "Aion Set",
-      "price": "¥14.000",
-      "src": "//designjp24.cafe24shop.com/web/product/medium/201811/bc64fe049e04d4a15cab4ffa3aa7fadb.jpg",
-      "width": 295,
-      "height": 295
-    },
-    {
-      "name": "Violet Set",
-      "price": "¥100.000",
-      "src": "//designjp24.cafe24shop.com/web/product/medium/201811/8e1a1866cfd595e9579c394cc92c7716.jpg",
-      "width": 295,
-      "height": 295
+      "name": "FHD",
+      "quantity": 2,
+      "price": "$12,000.00"
     }
   ]
 }
