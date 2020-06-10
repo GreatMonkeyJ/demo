@@ -1,34 +1,54 @@
 {
   "news": [
     {
-      "name": "Apple",
-      "quantity": 10,
-      "price": "$3.25"
+      "title": "위안부 성금 진실 공방",
+      "pointColor": "#f57159",
+      "importance": 0
     },
     {
-      "name": "Banana",
-      "quantity": 10,
-      "price": "$6.45"
+      "title": "코로나19",
+      "pointColor": "#feca57",
+      "importance": 1
     },
     {
-      "name": "Car",
-      "quantity": 1,
-      "price": "$650,000.25"
+      "title": "경비원 갑질 사망",
+      "pointColor": "#2dd8c5",
+      "importance": 2
     },
     {
-      "name": "Dataset",
-      "quantity": 20,
-      "price": "$3.59"
+      "title": "재난지원금 지급",
+      "pointColor": "#e46ed6",
+      "importance": 3
     },
     {
-      "name": "Events",
-      "quantity": 2,
-      "price": "$3000.99"
+      "title": "텔레그램 성범죄",
+      "pointColor": "#65d7fe",
+      "importance": 4
     },
     {
-      "name": "FHD",
-      "quantity": 2,
-      "price": "$12,000.00"
+      "title": "한일 수출규제",
+      "pointColor": "#444",
+      "importance": 5
+    },
+    {
+      "title": "원유감산 전쟁",
+      "pointColor": "#444",
+      "importance": 6
+    },
+    {
+      "title": "순차적 등교 개학",
+      "pointColor": "#444",
+      "importance": 7
+    },
+    {
+      "title": "미국 금리 인하",
+      "pointColor": "#444",
+      "importance": 8
+    },
+    {
+      "title": "미세 먼지 농도",
+      "pointColor": "#444",
+      "importance": 9
     }
   ]
 }
