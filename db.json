@@ -22,7 +22,7 @@
     },
     {
       "title": "텔레그램 성범죄",
-      "pointColor": ["#65d7fe", "437bfb"],
+      "pointColor": ["#65d7fe", "#437bfb"],
       "importance": 4
     },
     {
