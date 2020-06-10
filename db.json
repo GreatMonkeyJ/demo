@@ -27,27 +27,27 @@
     },
     {
       "title": "한일 수출규제",
-      "pointColor": "#444",
+      "pointColor": ["#444", "#555"],
       "importance": 5
     },
     {
       "title": "원유감산 전쟁",
-      "pointColor": "#444",
+      "pointColor": ["#444", "#555"],
       "importance": 6
     },
     {
       "title": "순차적 등교 개학",
-      "pointColor": "#444",
+      "pointColor": ["#444", "#555"],
       "importance": 7
     },
     {
       "title": "미국 금리 인하",
-      "pointColor": "#444",
+      "pointColor": ["#444", "#555"],
       "importance": 8
     },
     {
       "title": "미세 먼지 농도",
-      "pointColor": "#444",
+      "pointColor": ["#444", "#555"],
       "importance": 9
     }
   ]
