@@ -2,27 +2,27 @@
   "news": [
     {
       "title": "위안부 성금 진실 공방",
-      "pointColor": "#f57159",
+      "pointColor": ["#f57159", "#f53951"],
       "importance": 0
     },
     {
       "title": "코로나19",
-      "pointColor": "#feca57",
+      "pointColor": ["#feca57", "#fe8055"],
       "importance": 1
     },
     {
       "title": "경비원 갑질 사망",
-      "pointColor": "#2dd8c5",
+      "pointColor": ["#2dd8c5", "#23c77a"],
       "importance": 2
     },
     {
       "title": "재난지원금 지급",
-      "pointColor": "#e46ed6",
+      "pointColor": ["#e46ed6", "#7e4fff"],
       "importance": 3
     },
     {
       "title": "텔레그램 성범죄",
-      "pointColor": "#65d7fe",
+      "pointColor": ["#65d7fe", "437bfb"],
       "importance": 4
     },
     {
