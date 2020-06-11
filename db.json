@@ -36,7 +36,33 @@
       "title": "코로나19",
       "pointColor": ["#feca57", "#fe8055"],
       "importance": 1,
-      "ref": []
+      "ref" : [
+        {
+          "title": "발생현황\n실시간",
+          "pointColor": ["#feca57", "#fe8055"],
+          "importance": 1
+        },
+        {
+          "title": "예방수칙",
+          "pointColor": ["#feca57", "#fe8055"],
+          "importance": 1
+        },
+        {
+          "title": "손씻기",
+          "pointColor": ["#feca57", "#fe8055"],
+          "importance": 1
+        },
+        {
+          "title": "세계 현황",
+          "pointColor": ["#feca57", "#fe8055"],
+          "importance": 1
+        },
+        {
+          "title": "코로나\n알림",
+          "pointColor": ["#feca57", "#fe8055"],
+          "importance": 1
+        }
+      ]
     },
     {
       "title": "경비원\n갑질 사망",
