@@ -116,115 +116,53 @@
   "news_edge": [
     {
       "title": "위안부 성금\n진실공방",
-      "pointColor": ["#f57159", "#f53951"],
-      "importance": 0,
-      "ref" : [
-        {
-          "title": "정의기억\n연대",
-          "pointColor": ["#f57159", "#f53951"],
-          "importance": 0
-        },
-        {
-          "title": "정의연\n기자회견",
-          "pointColor": ["#f57159", "#f53951"],
-          "importance": 0
-        },
-        {
-          "title": "이나영",
-          "pointColor": ["#f57159", "#f53951"],
-          "importance": 0
-        },
-        {
-          "title": "윤미향",
-          "pointColor": ["#f57159", "#f53951"],
-          "importance": 0
-        },
-        {
-          "title": "이용수\n할머니",
-          "pointColor": ["#f57159", "#f53951"],
-          "importance": 0
-        }
-      ]
+      "pointColor": ["#ff4a2e"],
+      "importance": 0
     },
     {
       "title": "코로나19",
-      "pointColor": ["#feca57", "#fe8055"],
-      "importance": 1,
-      "ref" : [
-        {
-          "title": "발생현황\n실시간",
-          "pointColor": ["#feca57", "#fe8055"],
-          "importance": 1
-        },
-        {
-          "title": "예방수칙",
-          "pointColor": ["#feca57", "#fe8055"],
-          "importance": 1
-        },
-        {
-          "title": "손씻기",
-          "pointColor": ["#feca57", "#fe8055"],
-          "importance": 1
-        },
-        {
-          "title": "세계 현황",
-          "pointColor": ["#feca57", "#fe8055"],
-          "importance": 1
-        },
-        {
-          "title": "코로나\n알림",
-          "pointColor": ["#feca57", "#fe8055"],
-          "importance": 1
-        }
-      ]
+      "pointColor": ["#834bfe"],
+      "importance": 1
     },
     {
       "title": "경비원\n갑질 사망",
-      "pointColor": ["#2dd8c5", "#23c77a"],
-      "importance": 2,
-      "ref": []
+      "pointColor": ["#00b3cc"],
+      "importance": 2
     },
     {
       "title": "재난지원금\n지급",
-      "pointColor": ["#e46ed6", "#7e4fff"],
-      "importance": 3,
-      "ref": []
+      "pointColor": ["#ffa500"],
+      "importance": 3
     },
     {
       "title": "텔레그램\n성범죄",
-      "pointColor": ["#65d7fe", "#437bfb"],
-      "importance": 4,
-      "ref": []
+      "pointColor": ["#3a8eff"],
+      "importance": 4
     },
     {
       "title": "한일\n수출규제",
-      "pointColor": ["#444", "#666"],
-      "importance": 5,
-      "ref": []
+      "pointColor": ["#e0e4e7"],
+      "importance": 5
     },
     {
       "title": "원유감산\n전쟁",
-      "pointColor": ["#444", "#666"],
-      "importance": 6,
-      "ref": []
+      "pointColor": ["#e0e4e7"],
+      "importance": 6
     },
     {
       "title": "순차적\n등교 개학",
-      "pointColor": ["#444", "#666"],
-      "importance": 7,
-      "ref": []
+      "pointColor": ["#e0e4e7"],
+      "importance": 7
     },
     {
       "title": "미국\n금리 인하",
-      "pointColor": ["#444", "#666"],
-      "importance": 8,
-      "ref": []
+      "pointColor": ["#e0e4e7"],
+      "importance": 8
     },
     {
       "title": "미세먼지\n농도",
-      "pointColor": ["#444", "#666"],
-      "importance": 9,
-      "ref": []
+      "pointColor": ["#e0e4e7"],
+      "importance": 9
     }
   ]
 }
