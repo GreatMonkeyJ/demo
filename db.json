@@ -117,7 +117,29 @@
     {
       "title": "위안부 성금\n진실공방",
       "pointColor": ["#ff4a2e"],
-      "importance": 0
+      "importance": 0,
+      "ref": [
+        {
+          "title": "'수요집회 기부금'\n진실공방&mldr;정의연 오늘\n반박 기자회견",
+          "copy": "파이낸셜 뉴스",
+          "timeline": "1시간 전"
+        },
+        {
+          "title": "'수요집회 기부금'\n진실공방&mldr;정의연 오늘\n반박 기자회견",
+          "copy": "파이낸셜 뉴스",
+          "timeline": "1시간 전"
+        },
+        {
+          "title": "'수요집회 기부금'\n진실공방&mldr;정의연 오늘\n반박 기자회견",
+          "copy": "파이낸셜 뉴스",
+          "timeline": "1시간 전"
+        },
+        {
+          "title": "'수요집회 기부금'\n진실공방&mldr;정의연 오늘\n반박 기자회견",
+          "copy": "파이낸셜 뉴스",
+          "timeline": "1시간 전"
+        }
+      ]
     },
     {
       "title": "코로나19",
@@ -160,7 +182,60 @@
       "importance": 8
     },
     {
-      "title": "미세먼지\n농도",
+      "title": "갑수농장\n동물학대",
+      "pointColor": ["#e0e4e7"],
+      "importance": 9
+    }
+  ],
+  "news_edge_upate": [
+    {
+      "title": "이천 화재도\n결국&mldr;",
+      "pointColor": ["#ff4a2e"],
+      "importance": 0,
+      "ref": []
+    },
+    {
+      "title": "북한 핵탄두",
+      "pointColor": ["#834bfe"],
+      "importance": 1
+    },
+    {
+      "title": "#살아있다\n유아인",
+      "pointColor": ["#00b3cc"],
+      "importance": 2
+    },
+    {
+      "title": "국회, 6개 상임위원장\n선출",
+      "pointColor": ["#ffa500"],
+      "importance": 3
+    },
+    {
+      "title": "계부\n'한번도 남의딸로 생각안했다'",
+      "pointColor": ["#3a8eff"],
+      "importance": 4
+    },
+    {
+      "title": "[단독] 홍남기\n기본소득 수용불가",
+      "pointColor": ["#e0e4e7"],
+      "importance": 5
+    },
+    {
+      "title": "리치웨이\n확진자",
+      "pointColor": ["#e0e4e7"],
+      "importance": 6
+    },
+    {
+      "title": "코로나\n사회적 거리두기",
+      "pointColor": ["#e0e4e7"],
+      "importance": 7
+    },
+    {
+      "title": "한국을\n절대 잊지 않겠다",
+      "pointColor": ["#e0e4e7"],
+      "importance": 8
+    },
+    {
+      "title": "국수 발언",
       "pointColor": ["#e0e4e7"],
       "importance": 9
     }
