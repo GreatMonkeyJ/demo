@@ -122,22 +122,26 @@
         {
           "title": "'수요집회 기부금'\n진실공방&mldr;정의연 오늘\n반박 기자회견",
           "copy": "파이낸셜 뉴스",
-          "timeline": "1시간 전"
+          "timeline": "1시간 전",
+          "ref": []
         },
         {
           "title": "'수요집회 기부금'\n진실공방&mldr;정의연 오늘\n반박 기자회견",
           "copy": "파이낸셜 뉴스",
-          "timeline": "1시간 전"
+          "timeline": "1시간 전",
+          "ref": []
         },
         {
           "title": "'수요집회 기부금'\n진실공방&mldr;정의연 오늘\n반박 기자회견",
           "copy": "파이낸셜 뉴스",
-          "timeline": "1시간 전"
+          "timeline": "1시간 전",
+          "ref": []
         },
         {
           "title": "'수요집회 기부금'\n진실공방&mldr;정의연 오늘\n반박 기자회견",
           "copy": "파이낸셜 뉴스",
-          "timeline": "1시간 전"
+          "timeline": "1시간 전",
+          "ref": []
         }
       ]
     },
@@ -191,8 +195,7 @@
     {
       "title": "이천 화재도\n결국&mldr;",
       "pointColor": ["#ff4a2e"],
-      "importance": 0,
-      "ref": []
+      "importance": 0
     },
     {
       "title": "북한 핵탄두",
